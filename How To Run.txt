@@ -1,0 +1,4 @@
+python -m venv bot_env
+bot_env\Scripts\activate
+pip install discord
+python pyTICKET.py
