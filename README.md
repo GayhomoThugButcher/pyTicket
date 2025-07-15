@@ -20,7 +20,7 @@ Credits are required per the license below. You **must not** remove or modify th
 ## Setup Guide
 
 A full video guide will be here:  
-<video src="HTSU.mp4" controls></video>
+https://youtu.be/N5R3SMosg8I
 
 ### Can't Watch Video? Cheack Below!
 
