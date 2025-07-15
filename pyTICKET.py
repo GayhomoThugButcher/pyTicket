@@ -37,15 +37,17 @@
 ##############
 
 import discord
-from discord.ext import commands, tasks
+from discord.ext import commands
 from discord.ui import View, Select, Button
-from datetime import datetime, timedelta
 from discord import Embed, Interaction, SelectOption, ButtonStyle
+import logging
 
 
 # Discord Bot Stuff
 ##############
 
+intents = discord.Intents.all()
+bot = commands.Bot(command_prefix="!", intents=intents)
 intents = discord.Intents.default()
 intents.members = True  
 intents.message_content = True  
@@ -60,7 +62,7 @@ intents = discord.Intents.all()
 logging.basicConfig(level=logging.DEBUG)
 
 # just right click on the role, copy role id and put them down below make sure to add ","
-SUPPORT_ROLE_IDS = [Must Replace with the ID's of the support roles,]
+SUPPORT_ROLE_IDS = [Change To Support Role ID,]
 
 
 class TicketSystem(View):
