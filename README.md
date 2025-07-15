@@ -48,5 +48,10 @@ How to use?
 
 ### 2. After Set up
 
-- Run the file named "Run.bat"
-  Bot Should Be Running NoW
+```bash
+python -m venv bot_env
+bot_env\Scripts\activate
+pip install discord
+python pyTICKET.py
+```
+
