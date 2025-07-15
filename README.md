@@ -46,8 +46,7 @@ How to use?
 - `discord.py` (version 2.0+ recommended)
 - A Discord bot application
 
-### 2. Install Required Packages
+### 2. After Set up
 
-```bash
-pip install -U discord.py
-```
+- Run the file named "Run.bat"
+  Bot Should Be Running NoW
