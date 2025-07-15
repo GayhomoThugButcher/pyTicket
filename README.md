@@ -30,8 +30,9 @@ How to use?
 * 2. Go to "Installation" Make sure both user install and guild are clicked
 * 3. make sure the guild install scopes have "Bot" toggled and set the perms to "Administrator"
 * 4. Copy link and invite to server
-* 5. Go To "Bot" and Reset token and scroll all the way down and place it at the bottom
-* 6. Go to "Ticket Code" section to fill out the rest of the code
+* 5. Go To "Bot" and Reset token. Turn On "Presence Intent, Server Members Intent, and Message Content Intent"
+* 6. Scroll all the way down and place the bot token
+* 7. Go to "Ticket Code" section to fill out the rest of the code
 
 - Discord Server
 * 1. Make a Category named "Tickets" this is for when people make tickets it goes there
