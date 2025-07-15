@@ -1,6 +1,6 @@
 # pyTICKET
 
-**pyTICKET** is a lightweight, customizable, and open-source Discord ticketing bot built in Python using `discord.py`. Designed for support teams and community servers, pyTICKET allows users to create, claim, and close tickets using dropdowns and buttons — all within Discord.
+**pyTICKET** is a lightweight, customizable, and open-source Discord ticketing bot built in Python using `discord.py`. Designed for support teams and community servers, pyTICKET allows users to create, claim, and close tickets using dropdowns and buttons - all within Discord.
 
 This project was created by **Butcher (aka disembodied.rams)**.  
 Credits are required per the license below. You **must not** remove or modify the attribution lines in the source files.
